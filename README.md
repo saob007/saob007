@@ -15,7 +15,8 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-9A0000?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573228622777)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-9A0000?style=flat&logo=linkedin)](https://www.linkedin.com/in/saidalioviedo/)
 
----
+<hr style="border: 1px solid #9A0000;">
+
 ### 🚀 Áreas de trabajo
 
 ![Análisis de Datos](https://img.shields.io/badge/Análisis%20de%20Datos-d73737?style=flat-square)
@@ -23,7 +24,8 @@
 ![Inteligencia de Negocios](https://img.shields.io/badge/Inteligencia%20de%20Negocios-d73737?style=flat-square)
 ![Empresa](https://img.shields.io/badge/Empresa-d73737?style=flat-square)
 
----
+<hr style="border: 1px solid #9A0000;">
+
 ### 🖥️ Teconologías utilizadas  
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
