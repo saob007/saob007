@@ -19,6 +19,13 @@
 
 ### 🚀 Áreas de trabajo
 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1MsI0X4nKTqHZS3j_SJzV0E7hXBLF8cjW" 
+       width="100%" 
+       height="auto" 
+       style="max-width: 1200px; display: block; margin: auto;">
+</p>
+
 ![Análisis de Datos](https://img.shields.io/badge/Análisis%20de%20Datos-d73737?style=flat-square)
 ![Ciencia de Datos](https://img.shields.io/badge/Ciencia%20de%20Datos-d73737?style=flat-square)
 ![Inteligencia de Negocios](https://img.shields.io/badge/Inteligencia%20de%20Negocios-d73737?style=flat-square)
