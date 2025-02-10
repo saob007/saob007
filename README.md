@@ -15,7 +15,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-9A0000?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573228622777)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-9A0000?style=flat&logo=linkedin)](https://www.linkedin.com/in/saidalioviedo/)
 
-<hr style="border: 1px solid #9A0000;">
+────────────────────────────── 🔻 ──────────────────────────────
 
 ### 🚀 Áreas de trabajo
 
