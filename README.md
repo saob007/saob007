@@ -23,7 +23,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1MsI0X4nKTqHZS3j_SJzV0E7hXBLF8cjW" 
        width="100%" 
        height="auto" 
-       style="max-width: 1000px; display: block; margin: auto;">
+       style="max-width: 800px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); display: block; margin: auto;">
 </p>
 <!--
 ![Análisis de Datos](https://img.shields.io/badge/Análisis%20de%20Datos-d73737?style=flat-square)
