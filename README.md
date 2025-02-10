@@ -14,11 +14,11 @@
 [![Email](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-Mail-9A0000?style=flat&logo=gmail&logoColor=white)](mailto:ingsaidalioviedo@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-9A0000?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573228622777)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-9A0000?style=flat&logo=linkedin)](https://www.linkedin.com/in/saidalioviedo/)
-
+<!--
 ──────────────────────────────────────── 🔻 ────────────────────────────────────────
 
 ### 🚀 Áreas de trabajo
-
+-->
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1MsI0X4nKTqHZS3j_SJzV0E7hXBLF8cjW" 
        width="100%" 
