@@ -25,12 +25,12 @@
        height="auto" 
        style="max-width: 1200px; display: block; margin: auto;">
 </p>
-
+<!--
 ![Análisis de Datos](https://img.shields.io/badge/Análisis%20de%20Datos-d73737?style=flat-square)
 ![Ciencia de Datos](https://img.shields.io/badge/Ciencia%20de%20Datos-d73737?style=flat-square)
 ![Inteligencia de Negocios](https://img.shields.io/badge/Inteligencia%20de%20Negocios-d73737?style=flat-square)
 ![Empresa](https://img.shields.io/badge/Empresa-d73737?style=flat-square)
-
+-->
 ──────────────────────────────────────── 🔻 ────────────────────────────────────────
 
 ### 🖥️ Teconologías utilizadas  
