@@ -18,10 +18,10 @@
 ---
 ### 🚀 Áreas de trabajo
 
-![AD](https://img.shields.io/badge/AD-Análisis%20de%20Datos-d73737?style=flat-square) &nbsp;
-![CD](https://img.shields.io/badge/CD-Ciencia%20de%20Datos-d73737?style=flat-square) &nbsp;
-![BI](https://img.shields.io/badge/BI-Inteligencia%20de%20Negocios-d73737?style=flat-square) &nbsp;
-![EM](https://img.shields.io/badge/EM-Empresa-d73737?style=flat-square) &nbsp;
+![Análisis de Datos](https://img.shields.io/badge/Análisis%20de%20Datos-d73737?style=flat-square)
+![Ciencia de Datos](https://img.shields.io/badge/Ciencia%20de%20Datos-d73737?style=flat-square)
+![Inteligencia de Negocios](https://img.shields.io/badge/Inteligencia%20de%20Negocios-d73737?style=flat-square)
+![Empresa](https://img.shields.io/badge/Empresa-d73737?style=flat-square)
 
 ---
 ### 🖥️ Teconologías utilizadas  
