@@ -24,7 +24,7 @@
 ![Inteligencia de Negocios](https://img.shields.io/badge/Inteligencia%20de%20Negocios-d73737?style=flat-square)
 ![Empresa](https://img.shields.io/badge/Empresa-d73737?style=flat-square)
 
-<hr style="border: 1px solid #9A0000;">
+──────────────────────────────────────── 🔻 ────────────────────────────────────────
 
 ### 🖥️ Teconologías utilizadas  
 
