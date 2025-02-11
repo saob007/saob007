@@ -20,7 +20,7 @@
 ### 🚀 Áreas de trabajo
 -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=1I32qyE6_bWaJjsfm7KNE4Tir27oTTvY5" 
+  <img src="https://drive.google.com/uc?export=view&id=14lAHvTyQjsyyxVpU1nz4AoYnoKObw5EP" 
        width="100%" 
        height="auto" 
        style="max-width: 800px; 
