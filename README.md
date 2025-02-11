@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=¡Hola!+bienvenido+a+mi+perfil;Hi!+welcome+to+my+GitHub's+profile&size=40&width=900&height=60&color=9A0000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=¡Hola!+bienvenido+a+mi+perfil;Hi!+welcome+to+my+GitHub's+profile&size=40&width=900&height=60&color=9A0000&center=true&repeat=false)](https://git.io/typing-svg)
 ──────────────────────────────────────── 🔻 ────────────────────────────────────────
 <p align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdnN293amZ6Z3d6OTE4NmxmOGgxdzkyMDAxamRieW5oajRxbmppOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Bx39JhLGMMikTef3Mw/giphy.gif" width="220" align="left" style="margin-right: 15px;">
@@ -70,5 +70,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=spyderide&logoColor=white)
 
+──────────────────────────────────────── 🔻 ────────────────────────────────────────
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saob007&show_icons=true&theme=radical)
